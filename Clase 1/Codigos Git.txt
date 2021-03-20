@@ -1,0 +1,17 @@
+git init -- inicia un repositirio
+git status -- valida el estado de los cambios
+git add . -- Añade todos los cambios al seguimiento
+git log -- ver las versiones
+
+-- ********************************
+git config --global user.name "Jonathan Campos"
+git config --global user.email "jc222209@gmail.com"
+-- ********************************
+
+git commit -m "Primeros cambios"
+
+---
+
+git remote add origin "url"
+
+
