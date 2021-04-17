@@ -1,0 +1,15 @@
+****************************{'variable': 'Salario Basico', 'Resultado': 1900000.0}
+{'variable': 'Dias Liquidados', 'Resultado': 30.0}
+{'variable': 'Salario Devengado', 'Resultado': 1900000.0}
+{'variable': 'Auxilio Transporte', 'Resultado': 0}
+{'variable': 'Total Devengado', 'Resultado': 1900000.0}
+****************************{'variable': 'Salario Basico', 'Resultado': 2500000.0}
+{'variable': 'Dias Liquidados', 'Resultado': 29.0}
+{'variable': 'Salario Devengado', 'Resultado': 2416666.6666666665}
+{'variable': 'Auxilio Transporte', 'Resultado': 0}
+{'variable': 'Total Devengado', 'Resultado': 2416666.6666666665}
+****************************{'variable': 'Salario Basico', 'Resultado': 1300000.0}
+{'variable': 'Dias Liquidados', 'Resultado': 30.0}
+{'variable': 'Salario Devengado', 'Resultado': 1300000.0}
+{'variable': 'Auxilio Transporte', 'Resultado': 106454.0}
+{'variable': 'Total Devengado', 'Resultado': 1406454.0}
