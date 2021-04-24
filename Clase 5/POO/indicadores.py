@@ -1,6 +1,11 @@
 from urllib.request import Request, urlopen
 from pyquery import PyQuery
 
+
+# Solo se usa para dispositivos Mac o Linux
+import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
+
 class Indicadores:
 
     def trm(self):

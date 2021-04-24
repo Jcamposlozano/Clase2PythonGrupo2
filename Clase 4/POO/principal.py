@@ -29,12 +29,15 @@ while True:
         break
 
 
+df = pd.DataFrame(nominas)
+print(df.head())
+
 # Escribir un Archivo plano
-f = open('nominas.txt', 'w')
-for i in nominas:
-    f.write('****************************')
-    for j in i:
-        f.write(str(j) + "\n")
-f.close()
+#f = open('nominas.txt', 'w')
+#for i in nominas:
+#    f.write('****************************')
+#    for j in i:
+#        f.write(str(j) + "\n")
+#f.close()
 
 
